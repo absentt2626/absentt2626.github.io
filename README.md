@@ -1,1 +1,1 @@
-# Laurel.Taylor.github.io
+Website of Dr. Laurel A. Taylor
