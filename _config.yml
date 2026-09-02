@@ -3,3 +3,6 @@ plugins:
 - jekyll-remote-theme 
 title: Laurel A. Taylor
 description: Scholar, Translator, Poet
+github:
+  zip_url: site.github.zip_url
+  another_url: laurel-a-taylor.io
